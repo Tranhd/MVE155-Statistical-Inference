@@ -1,4 +1,4 @@
-# MVE155-Statistical-Inference
+# Statistical Inference
 Bonus tasks from the course, done in Matlab.
 
 ## Author
