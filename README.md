@@ -2,4 +2,4 @@
 Bonus tasks from the course, done in Matlab.
 
 ## Author
-* **Ludwig Tranheden**
+* **Tranhd**
